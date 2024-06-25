@@ -96,7 +96,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/yume/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/yume/proprietary/vendor/firmware/CAMERA_ICP.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP.elf \
     vendor/motorola/yume/proprietary/vendor/firmware/CAMERA_ICP_170.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/CAMERA_ICP_170.elf \
-    vendor/motorola/yume/proprietary/vendor/firmware/ILITEK_FW:$(TARGET_COPY_OUT_VENDOR)/firmware/ILITEK_FW \
+    vendor/motorola/yume/proprietary/vendor/firmware/ILITEK_FW_TM_7807S:$(TARGET_COPY_OUT_VENDOR)/firmware/ILITEK_FW_TM_7807S \
     vendor/motorola/yume/proprietary/vendor/firmware/NT36xxx_MP_Setting_Criteria_605B.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/NT36xxx_MP_Setting_Criteria_605B.csv \
     vendor/motorola/yume/proprietary/vendor/firmware/aw882xx_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_acf.bin \
     vendor/motorola/yume/proprietary/vendor/firmware/gmu_gen70000.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gmu_gen70000.bin \
